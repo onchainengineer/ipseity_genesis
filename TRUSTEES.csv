@@ -1,19 +1,5 @@
-github.com/regen-network/regen-ledger/x/,github.com/onchainengineer/helpnetwork/x/
-github.com/regen-network/regen-ledger/types/,github.com/onchainengineer/helpnetwork/x/helpnetwork/types/
-github.com/regen-network/regen-ledger/orm,github.com/onchainengineer/helpnetwork/orm
-,
-github.com/regen-network/regen-ledger/x/group,github.com/onchainengineer/helpnetwork/x/helpnetwork/group
-,
-github.com/regen-network/regen-ledger,github.com/onchainengineer/helpnetwork
-,
-,
-github.com/regen-network/cosmos-proto,github.com/onchainhub/cosmos-proto
-github.com/regen-network/cosmos-sdk,github.com/onchainhub/cosmos-sdk
-github.com/regen-network/protobuf,github.com/onchainhub/protobuf
-github.com/regen-network/regen-ledger/api,github.com/onchainengineer/helpnetwork/api
-,
-,
-,
-,
-,
-github.com\/regen-network\/regen-ledger,github.com\/onchainengineer\/helpnetwork
+Trustee name,Trustee DID,Trustee verkey
+Ipseity,UWe5QXKosmbXcyL2d5FvyT,~RbbsmfVp7S5XtwpYfAqbW7
+TheHelpNetwork,Y3w2bU2SAGoSwraRpQgXSq,~WRALkKrB2FyPkvgmjrb3fM
+DESAR,Hh7N4n21F39MVouQsDaDsL,~CDHdEJewPRYFjUBB12GjJ4
+Xtressials,A6gpq8zo3juRKw3oRwELqm,~PU8vygGZv1JopNCvJHkDMe
